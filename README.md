@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khareenp
-- 👀 I have a strong interest fullstack development.
+- 👀 I have a strong interest fullstack development and project management
 - 🌱 I’m recently completed my BSc in Software Engineering at the University of the West Indies: Cave Hill Barbados. 
 - 💞️ I’m looking to collaborate on any web or mobile projects where I can gain experience and knowledge.
 - 📫 How to reach me khareenp1@gmail.com
