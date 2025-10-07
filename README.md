@@ -59,7 +59,6 @@ Today, I’m an experienced **Software Engineer & DevSecOps professional** with 
 
 ### 🎓 Education & Certifications
 
-* **MSc, Computer Information Systems** – Boston University MET *(in progress)*
 * **BSc, Software Engineering** – University of the West Indies, Cave Hill *(2022)*
 * **Certifications:** Microsoft Azure Fundamentals (AZ-900), Advanced IVR Concepts, Generative AI with LLMs.
 
